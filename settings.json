@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+     "intent": "GetExperimentData",
+     "slots": [
+        {
+          "name": "Experiment",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "GetExperiments",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

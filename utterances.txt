@@ -1,0 +1,42 @@
+GetExperiments what experiments are running
+GetExperiments get experiments
+GetExperiments get the experiments
+GetExperiments experiments
+GetExperiments what is running
+GetExperiments what's running
+GetExperiments what's on
+GetExperiments what is on
+GetExperimentData get data for experiment {one|Experiment}
+GetExperimentData get data for experiment {two|Experiment}
+GetExperimentData get data for experiment {three|Experiment}
+GetExperimentData get data for experiment {four|Experiment}
+GetExperimentData get data for experiment {five|Experiment}
+GetExperimentData get data for {first|Experiment} experiment
+GetExperimentData get data for {second|Experiment} experiment
+GetExperimentData get data for {third|Experiment} experiment
+GetExperimentData get data for {fourth|Experiment} experiment
+GetExperimentData get data for {fifth|Experiment} experiment
+GetExperimentData experiment {one|Experiment}
+GetExperimentData experiment {two|Experiment}
+GetExperimentData experiment {three|Experiment}
+GetExperimentData experiment {four|Experiment}
+GetExperimentData experiment {five|Experiment}
+GetExperimentData {first|Experiment} experiment
+GetExperimentData {second|Experiment} experiment
+GetExperimentData {third|Experiment} experiment
+GetExperimentData {fourth|Experiment} experiment
+GetExperimentData {fifth|Experiment} experiment
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
